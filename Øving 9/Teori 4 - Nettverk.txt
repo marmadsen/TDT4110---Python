@@ -1,0 +1,49 @@
+a) 
+Distribusjonsnett:
+DAB
+Analog Radio
+DVB-T (rikstv)
+
+Kommunikasjonsnett:
+Internett
+4G
+Maritim Radio
+
+b)
+Analoge signaler:Et kontinuerlig signal hvor en variabel egenskap
+(f.eks amplitude eller frekvens) representerer
+informasjonen som overføres
+
+Digitale signaler: Et kontinuerlig signal hvor den variable egenskap
+er gitt av en diskret funksjon, som gir verdier fra
+et definert og begrenset område (range)
+
+c)
+Nyquist samplingsteorem sier at samplingsraten minst må være det dobbelte av maksimal frekvensrespons.
+
+d)
+Feil i digitale signaler oppstår fordi de er svært sårbare for støy. Det er lett at bitsa i signalet endres.
+
+e)
+Ingen eier internett, det er et abstrakt konsept.
+
+f)
+Trådløst nett er mere usikkert da informasjonen som sendes, kan fanges opp av en tredjepart.
+Og radiospekteret er begrenset.
+
+g)
+En protokoll er et regelverk som bestemmer hvordan kommunikasjon skal foregå og hvilke funksjoner som skal brukes.
+
+h)
+De 4 kravene til nett er:
+Skalerbarhet
+Tilgjengelighet
+Pålitelighet
+ytelse
+
+i)
+Cookies er informasjonskapsler som lagrer informasjon lokalt på pc. De gjør browsing
+raskere, men kan også brukes til å samle informasjon om brukeren.
+
+j)
+Man kan sende "hemmelige" meldinger hvis man krypterer dem, for eksempel med RSA-algoritmen.

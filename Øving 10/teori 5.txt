@@ -1,0 +1,20 @@
+a)
+En algoritme er et sett med intsruksjoner, for eksempel en rekursiv funksjon
+
+b) en kompleks algoritme kan stykkes opp og planlegges med flowchart
+
+c)Innstikksortering er O(n^2)
+
+d) iterative funkjsoner jobber "opp" til n mens rekursive funksjoner går fra n til basistilfelle
+
+e)
+Plandrevet prosesser: 
+Alle aktivitetene er planlagt på forhånd og framdrift blir målt mot denne planen. •
+
+Smidige prosesser: 
+Inkrementell planlegging som gjør det enklere å tilpasse prosess til endring av krav fra kunde •
+
+I praksis vil utviklingsprosesser være en kombinasjon av plandrevet og smidig. •
+Finnes ikke noe fasit på riktig og feil for programvare-utviklingsprosesser.
+
+f)
